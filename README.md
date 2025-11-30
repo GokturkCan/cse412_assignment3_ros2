@@ -1,4 +1,6 @@
-\# CSE412 - Robotics ## Assignment 3: ROS2 Nodes, Services and Docker Deployment ### Student: Göktürk Can (230611501) ### Date: 2025-11-30
+\# CSE412 - Robotics ## Assignment 3: ROS2 Nodes, Services and Docker Deployment 
+### Student: Göktürk Can (230611501) 
+### Date: 2025-11-30
 
 \---## 📌 1. Overview
 

@@ -22,3 +22,20 @@ The project demonstrates:
 
 ## 📁 2. Repository Structure
 
+cse412_assignment3_ros2/
+│
+├── src/
+│ ├── sensor_publisher_pkg/
+│ ├── data_processor_pkg/
+│ ├── command_server_pkg/
+│ └── command_interfaces/
+│ └── srv/
+│ └── ComputeCommand.srv
+│
+├── launch/
+│ └── my_project.launch.py
+│
+├── Dockerfile
+├── entrypoint.sh
+├── SSF_HASH.txt
+└── README.md
